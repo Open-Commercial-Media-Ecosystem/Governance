@@ -1,6 +1,6 @@
 # OCME By Laws and Other Legal Filings
 
-The OCME is an Unicorporated Non-profit Association based in Wisconsin. We are also a legally recognized 501c(6) Non Profit organization.
+The OCME is an Unincorporated Non-profit Association based in Wisconsin. We are also a legally recognized 501c(6) Non Profit organization.
 
 ## By Laws
 
