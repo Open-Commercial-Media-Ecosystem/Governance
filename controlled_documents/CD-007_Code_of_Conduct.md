@@ -6,7 +6,7 @@ OCME is building a community led space where creating, collaborating and sharing
 
 We envision a thriving creator ecosystem where artists control their own content, governance is transparent and community-led, and economic value flows to those who create it.
 
-This Code of Conduct ("Code") defines how we work together to make that vision real. It protects our community, our members' rights, and the environment where creative collaboration thrives.
+This Code of Conduct ("Code") defines how we work together to make that vision real. It protects our community, our members' rights, and the environment where creative collaboration thrives. This Code isn't about restricting creative works, it's about protecting the space so creativity can flourish without being derailed by bad actors.
 
 ---
 
