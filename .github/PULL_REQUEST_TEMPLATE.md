@@ -1,10 +1,4 @@
----
-name: Governance Change Pull Request
-about: Submit changes to OCME governance documents
-title: '[GOVERNANCE] '
-labels: needs-review
-assignees: andy-ocme
----
+# Governance Update
 
 ## Governance Change Summary
 
@@ -25,7 +19,7 @@ assignees: andy-ocme
 ## Review Checklist
 
 - [ ] Change aligns with OCME Mission and Vision
-- [ ] Stakeholder impact assesment
+- [ ] Stakeholder impact assessment
 
 ---
 
