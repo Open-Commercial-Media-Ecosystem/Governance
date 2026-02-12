@@ -1,6 +1,12 @@
 # Governance Framework
-one
+
 This repository is the Governance Framework for the Open Commercial Media Ecosystem.
+
+## Pre-Release TODOs
+
+- [ ] CD-002: Review and expand the DID types list (Content, Creator, Media, Split Sheet — may be missing types)
+- [ ] CD-002: Draft full streaming license text and include in the Governance Framework
+- [ ] CD-003 through CD-006: Update controlled documents to v1.0 terminology alignment
 
 | Document | Description |
 | --- | --- |
