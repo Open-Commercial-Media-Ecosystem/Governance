@@ -6,6 +6,7 @@
 | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 0.2     | 2024-05-28 | Initial documentation                                                                                                                                             |                 |
 | 1.0     | 2025-02-11 | Structural cleanup. Content unchanged — specific requirements to be developed as ecosystem matures. Added role-specific MUST/SHOULD requirements to all sections. | Andrew Woodruff |
+| 1.1     | 2026-02-18 | Added Section 6: Content Integrity and Moderation. Added data portability requirement to Section 5. | Andrew Woodruff |
 
 The following requirements apply to all [governed parties](https://trustoverip.github.io/toip/glossary#governed-party) within the OCME Ecosystem. The key words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
@@ -52,4 +53,14 @@ Governed parties must ensure that the information they are responsible for is ha
 1. All governed parties MUST comply with applicable data protection and privacy legislation in their jurisdiction.
 2. Technology Providers MUST clearly specify what personal data is collected, how it is processed, and how long it is retained.
 3. Technology Providers MUST provide creators with the ability to access, correct, and request deletion of their personal data.
-4. Creators SHOULD review the privacy policies of Technology Providers and Curators before participating in the OCME Ecosystem.
+4. Technology Providers MUST provide creators with the ability to export their personal data in a portable format upon request.
+5. Creators SHOULD review the privacy policies of Technology Providers and Curators before participating in the OCME Ecosystem.
+
+## 6. Content Integrity and Moderation
+
+Governed parties must ensure that content within the OCME Ecosystem complies with applicable laws and ecosystem agreements. Content distribution standards and licensing restrictions are governed by the applicable license agreements.
+
+1. OCME reserves the right to remove content from the ecosystem that violates applicable law. A written explanation identifying the legal basis for removal MUST be provided to the creator.
+2. Disputes regarding content removal MUST follow the OCME dispute resolution process.
+3. Technology Providers MUST provide creators with the ability to edit and delete their own content, subject to applicable operational and legal restrictions.
+4. Technology Providers MUST maintain an audit trail of all administrative content moderation actions.
