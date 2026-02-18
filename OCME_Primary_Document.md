@@ -37,8 +37,6 @@ THESE MATERIALS ARE PROVIDED "AS IS." The Trust Over IP Foundation, established 
 
 IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
----
-
 ## 1. Introduction
 This governance framework (GF) provides a set of guidelines and principles for the governance of the Open Commercial Media Ecosystem (OCME) trust community. This GF outlines the roles and responsibilities of the governing authority and governed party, as well as the processes and procedures for managing the OCME ecosystem in a secure, transparent, and accountable manner.
 This GF has been structured following the Trust Continuum methodology. It is partially based on the ToIP Foundation's Governance Metamodel Specification. The ToIP Foundation and the ToIP stack play a critical role in advancing the field of decentralized identity, and this GF is designed to align with the foundation's principles and objectives.
@@ -50,6 +48,7 @@ The following conventions are used in this document:
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
 All terms used in this document are defined in the OCME Glossary (Appendix A), which incorporates terminology from the ToIP Core Glossary and ToIP Governance Glossary.
+
 ## 3. Localization
 The official language for this GF is currently English (IETF BCP 47 language tag "en"), and there are currently no translations. Should a translation be required, any person or entity MAY create the translations. Submissions should include the contact details of contributors and the trust community (if applicable) so that future updates can be translated. OCME MUST approve translations of this GF and ensure that translations are added to the official GF website.
 
@@ -87,7 +86,6 @@ The following roles are subject to the rules and requirements of this Governance
 - Governance of OCME nonprofit operational procedures.
 
 ## 8. Objectives
-
 This Governance Framework is designed to achieve the following objectives:
 
 **Creator Economic Agency**
