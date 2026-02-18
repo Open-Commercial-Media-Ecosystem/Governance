@@ -1,4 +1,13 @@
-# OCME Code of Conduct v0.9
+# CD-007 Code of Conduct
+
+## Change History
+
+| Version | Date | Description | Author |
+|---------|------|-------------|--------|
+| 0.9 | 2025-11-24 | Initial draft for IAC review | |
+| 1.0 | 2025-02-11 | Adopted as v1.0 Controlled Document | |
+
+---
 
 ## Purpose
 
@@ -76,11 +85,6 @@ Retaliation against anyone who reports violations or participates in investigati
 
 ---
 
-**Document Status:** Draft v0.9 for IAC Review
 **Administration:** Executive Director with Board and IAC oversight
 **Amendment:** Requires IAC vote and Board approval (Controlled Document)
 **Questions:** [info@ocmeco.org](info@ocmeco.org)
-
-**Date:** November 24, 2025
-**Next Review:** IAC Meeting, December 11, 2025
-**Target Approval:** OCME Board, January 14, 2025

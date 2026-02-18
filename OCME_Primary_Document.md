@@ -22,12 +22,12 @@
 
 ### Revision History
 
-| Version | Date | Description | Approved By |
-|---------|------|-------------|-------------|
-| 0.1 | 2024-05-01 | Voyager Program Launch | Tony Rose (AIMVS LLC) |
-| 0.2 | 2024-06-01 | AI Music Video Channel Beta | Tony Rose (AIMVS LLC) |
-| 0.3 | 2024-12-19 | IAC structure, revenue split adjustment | Tony Rose (AIMVS LLC) |
-| 1.0 | 2025-XX-XX | Colony governance model, ToIP 13-section structure | Pending IAC Vote |
+| Version | Date       | Description                                        | Approved By           |
+| ------- | ---------- | -------------------------------------------------- | --------------------- |
+| 0.1     | 2024-05-01 | Voyager Program Launch                             | Tony Rose (AIMVS LLC) |
+| 0.2     | 2024-06-01 | AI Music Video Channel Beta                        | Tony Rose (AIMVS LLC) |
+| 0.3     | 2024-12-19 | IAC structure, revenue split adjustment            | Tony Rose (AIMVS LLC) |
+| 1.0     | 2026-XX-XX | Colony governance model, ToIP 13-section structure | Pending IAC Vote      |
 
 ### Terms of Use
 
@@ -36,9 +36,6 @@ This document establishes the Governance Framework for the Open Commercial Media
 THESE MATERIALS ARE PROVIDED "AS IS." The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user.
 
 IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-This document is based on the ToIP Governance Metamodel Specification V1.0 and has been adapted for OCME's ecosystem governance requirements.
-- [ ] Do I need this section?
 
 ---
 
@@ -166,6 +163,8 @@ The following controlled documents are maintained as part of this Governance Fra
 | CD-001 | Glossary | Glossary of terms used by the OCME |
 | CD-002 | Technical Artifacts | Identifier types, licenses, authorized issuers, split sheets |
 | CD-003 | Information Trust Requirements | Requirements that all governed parties must meet |
-| CD-004 | Growth and Evolution | Principles and approaches for ecosystem growth beyond the closed-loop pilot |
+| CD-004 | Growth and Evolution | Principles and approaches for ecosystem growth and governance evolution |
 | CD-005 | Revenue Splits | Revenue share splits across the ecosystem |
 | CD-006 | Industry Advisory Council | IAC structure and operational procedures |
+| CD-007 | Code of Conduct | Community standards and enforcement procedures |
+| CD-008 | Review and Amendment Procedures | Governance change proposal process, voting rules, and amendment procedures |

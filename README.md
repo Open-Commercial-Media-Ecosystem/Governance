@@ -2,12 +2,6 @@
 
 This repository is the Governance Framework for the Open Commercial Media Ecosystem.
 
-## Pre-Release TODOs
-
-- [ ] CD-002: Review and expand the DID types list (Content, Creator, Media, Split Sheet — may be missing types)
-- [ ] CD-002: Draft full streaming license text and include in the Governance Framework
-- [ ] CD-003 through CD-006: Update controlled documents to v1.0 terminology alignment
-
 | Document | Description |
 | --- | --- |
 | [OCME Primary Document](./OCME_Primary_Document.md) | Core governance framework and operational guidelines |
@@ -15,7 +9,9 @@ This repository is the Governance Framework for the Open Commercial Media Ecosys
 | [CD-002: Technical Artifacts](./controlled_documents/CD-002_Technical_Artifacts.md) | Technical specifications and implementation details |
 | [CD-003: Information Trust Requirements](./controlled_documents/CD-003_Information_Trust_Requirements.md) | Data integrity, privacy, and security standards |
 | [CD-004: Growth and Evolution](./controlled_documents/CD-004_Growth_and_Evolution.md) | Framework for ecosystem expansion and adaptation |
-| [CD-005: Revenue Splits](./controlled_documents/CD-005_Revenue_Splits.md) | Payment terms and revenue distribution models |
+| [CD-005: Revenue Splits and Payment Terms](./controlled_documents/CD-005_Revenue_Splits.md) | Revenue distribution models and payment terms |
 | [CD-006: Industry Advisory Council](./controlled_documents/CD-006_Industry_Advisory_Council.md) | Structure and role of the advisory council |
+| [CD-007: Code of Conduct](./controlled_documents/CD-007_Code_of_Conduct.md) | Community standards and enforcement |
+| [CD-008: Review and Amendment Procedures](./controlled_documents/CD-008_Review_and_Amendment_Procedures.md) | Governance change proposal process, voting rules, and amendment procedures |
 
 ---
