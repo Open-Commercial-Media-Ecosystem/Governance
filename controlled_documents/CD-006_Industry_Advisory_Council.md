@@ -8,6 +8,7 @@
 | 1.0     | 2025-02-17 | Moved voting rules to CD-008. Added Colony IAC acknowledgment. Updated terminology. | Andrew Woodruff |
 | 1.1     | 2026-02-17 | Added CD-005 Revenue Splits to OCME IAC authority. Removed revenue percentages from Colony IAC authority. | Andrew Woodruff |
 | 1.2     | 2026-02-18 | Added RFC 2119 keywords throughout for formal requirements language. | Andrew Woodruff |
+| 1.3     | 2026-02-20 | Added Social Media Coordinator appointed role (Section 2.1). | Andrew Woodruff |
 
 The key words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
@@ -52,6 +53,17 @@ IAC members are not limited to, but have the following responsibilities:
 The IAC Chair is not limited to, but has the following responsibilities:
 
 - The IAC Chair SHALL be responsible for organizing meetings and one or more communication channel(s), as well as checking quorum and administering votes as needed.
+
+### 2.1 Social Media Coordinator
+
+The IAC MAY elect one of its members to serve as the OCME Social Media Coordinator. The Social Media Coordinator is not limited to, but has the following responsibilities:
+
+- Manage the official OCME social media accounts on behalf of the IAC.
+- Host or co-host community engagement sessions (e.g., X Spaces) on topics relevant to the OCME Ecosystem.
+- Repost and amplify creator content to increase ecosystem visibility.
+- Serve as a point of contact for prospective creators with onboarding questions.
+
+The Social Media Coordinator SHALL be appointed through the standard voting procedure defined in CD-008 Review and Amendment Procedures. The role MAY be vacated or reassigned at any time through the same voting process.
 
 ## 3. IAC Membership
 
