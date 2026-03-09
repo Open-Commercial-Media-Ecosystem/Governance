@@ -15,10 +15,9 @@ The following requirements apply to all [governed parties](https://trustoverip.g
 Governed parties must ensure that the information they are responsible for is protected against unauthorized access, use, disclosure, modification, or destruction. This includes implementing appropriate technical, physical, and administrative safeguards to prevent security incidents and promptly responding to any security incidents.
 
 1. All governed parties MUST implement security practices appropriate to their role in the OCME Ecosystem.
-2. Technology Providers MUST protect DID signing keys and verification methods against unauthorized access or compromise.
-3. Technology Providers MUST promptly respond to any security incidents affecting the Content Library, DID infrastructure, or payment systems, and MUST notify affected governed parties.
-4. Creators MUST protect the credentials used to access their OCME accounts and MUST NOT share authentication credentials with unauthorized parties.
-5. Curators MUST ensure that their streaming infrastructure does not introduce vulnerabilities that could compromise content integrity or creator data.
+2. Technology Providers MUST promptly respond to any security incidents affecting the Content Library, DID infrastructure, or payment systems, and MUST notify affected governed parties.
+3. Creators MUST protect the credentials used to access their OCME accounts and MUST NOT share authentication credentials with unauthorized parties.
+4. Curators MUST ensure that their streaming infrastructure does not introduce vulnerabilities that could compromise content integrity or creator data.
 
 ## 2. Information Availability
 
@@ -42,9 +41,8 @@ Governed parties must ensure that the information they are responsible for is ac
 
 Governed parties must ensure that the information they are responsible for is kept confidential and only disclosed to authorized parties on a need-to-know basis. This includes implementing appropriate access controls to prevent unauthorized disclosure and monitoring access logs to detect and investigate suspicious activity.
 
-1. All governed parties MUST keep payment addresses and financial data confidential and MUST NOT disclose them to unauthorized parties.
-2. Technology Providers MUST implement access controls that restrict access to creator and curator account data to authorized personnel only.
-3. Curators MUST NOT disclose creator personal information obtained through the OCME Ecosystem to third parties without the creator's consent.
+1. Technology Providers MUST ensure that creator and curator account data — including payment addresses and financial data — is accessible only to authorized personnel.
+2. Curators MUST NOT disclose creator personal information obtained through the OCME Ecosystem to third parties without the creator's consent.
 
 ## 5. Information Privacy
 
