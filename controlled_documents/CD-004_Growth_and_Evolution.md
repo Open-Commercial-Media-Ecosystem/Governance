@@ -1,43 +1,41 @@
-# Appendix D - Growth & Evolution
+# CD-004 Growth and Evolution
 
-As the OCME ecosystem moves beyond the closed-loop Voyager pilot, more and more of the ecosystem governance will be codified.
+## Change History
+
+| Version | Date       | Description                                                                                                                                            | Author          |
+| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| 0.2     | 2024-05-28 | Initial documentation                                                                                                                                  |                 |
+| 1.0     | 2026-02-11 | Structural cleanup. Flagged outdated technical references for review.  Removed v0.3-era technical limitations. Updated to reflect 1.0 ecosystem state. | Andrew Woodruff |
+As the OCME Ecosystem grows and Colonies are established, ecosystem governance will continue to be codified and refined.
 
 Key areas that are being considered are:
 
-## D.1 Risk Assessment
+## 1. Risk Assessment
 
-Identifying key risks, assessing them, and identifying vulnerabilities is crucial as the OCME ecosystem grows. Creating a risk treatment plan will assist in mitigating, accepting, avoiding, and transferring risks.
+Identifying key risks, assessing them, and identifying vulnerabilities is crucial as the OCME Ecosystem grows. Creating a risk treatment plan will assist in mitigating, accepting, avoiding, and transferring risks.
 
-## D.2 Trust Assurance and Certification
+## 2. Trust Assurance and Certification
 
 Establishing levels of assurance and the conformance and compliance criteria that support those levels of assurance will require formalization of much of the ecosystem. As the trust assurance and certification are created auditors will be engaged to assist in building out a solid conformance and compliance scheme.
 
-## D.3 Governance Requirements
+## 3. Governance Requirements
 
-As the closed-loop pilot is run, the OCME founders and other trust community members will be gathering and formalizing requirements.
+As the OCME Ecosystem matures, the OCME Board and trust community members will continue gathering and formalizing governance requirements.
 
-## D.4 Business Requirements
+## 4. Business Requirements
 
-After the closed-loop pilot is run, the trust community will be consulted to determine where value is being created and how that should be recognized.
+The trust community will be consulted on an ongoing basis to determine where value is being created and how that should be recognized.
 
-## D.5 Technical Requirements
+## 5. Technical Requirements
 
-In the initial “closed loop” stage all technical requirements are under consideration. Specific tools will be used, while interoperability will be considered for the OCME as it goes beyond the “closed loop” pilot.
+Technical requirements will evolve as the OCME Ecosystem grows and interoperability standards mature. The OCME is committed to adopting open standards and open protocols wherever possible.
 
-Key limitations:
+## 6. Inclusion, Equitability, and Accessibility Requirements
 
-- Wallet application will be limited to ALTME Wallet
-- Issuing will be done using Polygon ID or another SSI technology
-- Interactions will be proprietary.
+OCME is committed to promoting fair and equal access to the OCME Ecosystem for all individuals and organizations. Our Governance Framework will enable and promote inclusion, equitability, and accessibility.
 
-All of the key interactions will eventually be open standard/open protocol based.
+## 7. Legal Agreements
 
-## D.6 Inclusion, Equitability, and Accessibility Requirements
-
-OCME is committed to promoting fair and equal access to the OCME ecosystem for all individuals and organizations. Our GF will enable and promote inclusion, equitability, and accessibility.
-
-## D.7 Legal Agreements
-
-OCME will enter into legal agreements with relevant stakeholders as necessary. These agreements will be developed and executed as components of the GF. They will be reviewed and updated as necessary to ensure ongoing compliance with the GF specifications. 
+OCME will enter into legal agreements with relevant stakeholders as necessary. These agreements will be developed and executed as components of the Governance Framework. They will be reviewed and updated as necessary to ensure ongoing compliance with the Governance Framework specifications.
 
 These agreements may include but are not limited to service-level agreements with vendors and suppliers, data processing agreements with processors, and confidentiality agreements with partners and clients. OCME will develop all legal agreements with the assistance of legal counsel to ensure compliance with applicable laws and regulations.

@@ -1,72 +1,55 @@
-# Appendix B - Technical Artifacts
-
-The following technical artifacts are governed and managed in this GF:
-
-- Identifier Types
-- Decentralized Identifiers 
-- License Types
-- Different ways the content is allowed to be used.
-- Authorized Issuers
-- Issuers who are authorized to issue specific credential types.
-
-The DID URL for this Controlled Document is:
+# CD-002 Technical Artifacts
 
 ## Change History
 
-|GF Version|Document Version|Date|Description of Change|
-|---|---|---|---|
-|0.2|0.2|May 28, 2024|Initial Documentation|
-|0.3|0.3|November 20, 2024|Removed credentials section. Added details to Identifiers, and License Types.|
+| Version | Date       | Description                                                                                                             | Author          |
+| ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------- | --------------- |
+| 0.2     | 2024-05-28 | Initial Documentation                                                                                                   |                 |
+| 0.3     | 2025-11-20 | Removed credentials section. Added details to Identifiers and License Types.                                            |                 |
+| 1.0     | 2026-02-11 | Updated DID method from TDW to WEBVH. Restructured identifier types. OCME as DID issuer. Cleaned up document structure. | Andrew Woodruff |
+| 1.1     | 2026-02-17 | Designated all DID types as Core ecosystem types. Updated descriptions for colony neutrality.                           | Andrew Woodruff |
 
-## Identifier Specifications
+The following technical artifacts are governed and managed in this Governance Framework:
 
-Specification references:
+- **Identifier Types**: Decentralized Identifiers used within the OCME Ecosystem
+- **License Types**: Different ways content is allowed to be used
 
-DID:tdw -  [https://identity.foundation/didwebvh/v1.0/](https://identity.foundation/didwebvh/v1.0/)
+## 1. Identifier Specifications
 
-## Identifier Types
+The OCME Ecosystem uses Decentralized Identifiers (DIDs) to ensure authenticity, traceability, and secure management of content, creators, and related artifacts.
 
-### Introduction
+### 1.1 DID Method
 
-This document specifies the implementation of Decentralized Identifiers (DIDs) for media files using the DID:TDW method within the Open Commercial Media Ecosystem (OCME). The specification focuses on integrating DIDs into AIFF, MOV, MP4, and MP3 media files to ensure authenticity, traceability, and secure management. DIDs are also used for membership credentials.
+The OCME uses the `did:webvh` (Web + Verifiable History) method.
 
-### Objectives
+Specification reference: [did:webvh v1.0](https://identity.foundation/didwebvh/v1.0/)
 
-- Authenticity and Traceability: Ensure each media file is uniquely identifiable and traceable back to its origin.
-- Interoperability: Provide a standard that can be widely adopted across different platforms and services.
-- Security: Use encrypted storage and DID technology to secure media files.
-- Open Source: Allow the community to implement and improve upon the specification
+The `did:webvh` method enhances the `did:web` approach by introducing cryptographic verification features including a self-certifying identifier (SCID), a verifiable chain of DID document updates, and optional witness approval mechanisms. Rather than relying on a blockchain ledger, `did:webvh` maintains a DID log — a ledger-like history file published via HTTPS — allowing resolvers to verify the complete lineage and integrity of a DID from its inception.
 
-### DID:TDW Method
+### 1.2 DID Issuer
 
-The DID:TDW (Trusted Data Web) method is an evolution of the DID:WEB method, specifically designed for decentralized applications and services. It leverages the benefits of DID:WEB, providing a more flexible and robust mechanism for integrating DIDs into various types of media files.
+The OCME is the only issuer of DIDs in the OCME Ecosystem.
 
-### DID Structure
+### 1.3 Core DID Types
 
-The general structure of a DID:TDW looks like this:
-`did:tdw:{SCID}:ocmeregistry.com`
+The following DID types are universal to the OCME Ecosystem. All colonies MUST support these types:
 
-- did: The prefix indicating a decentralized identifier.
-- tdw: The method used for this specific DID.
-- SCID: A unique string generated for each media file.
-- ocmeregistry.com: The domain representing the organization or community.
+| DID Type | Description |
+|----------|-------------|
+| Creator | Identifies an individual or group that produces original work within the OCME Ecosystem. |
+| Content | Identifies a specific piece of content uploaded to the Content Library. |
+| Media | Identifies a specific media file associated with content. |
+| Split Sheet | Identifies a split sheet listing all creators, their revenue share percentages, and payment addresses for a piece of content. |
+| Playlist | Identifies a curated collection of content. |
+| Member | Identifies a team member within an organization operating within the OCME Ecosystem. |
+| Play Record | Identifies a content consumption event used as the basis for revenue calculation. |
+| Payment | Identifies a payment transaction record. |
+| Revenue Receipt | Identifies a revenue receipt documenting income distribution. |
+| Governance | Identifies a governance configuration record. |
 
-### Identifiers
+## 2. License Types
 
-The following identifier types are in use in the OCME:
+| Title | Version | Description |
+|-------|---------|-------------|
+| Streaming | 1.0 | This license gives a Broadcaster the right to stream the referenced content. |
 
-- OCME Membership: 
-- Split-sheet: A list of all Creators who created the content, the percentage of the royalties each Creator is paid for revenue derived from Commercial use of the content, and a payment address for each Creator for receipt of payment.
-- Playlists:
-- Channels:
-- Licenses:
-
-## B.3 License List
-
-|Title|Version|Description|
-|---|---|---|
-|Streaming|1.0|This license gives a Curator the right to stream the referenced content.|
-
-## B.4 Issuer List
-
-- This needs to represent our identifiers instead of credential issuers.

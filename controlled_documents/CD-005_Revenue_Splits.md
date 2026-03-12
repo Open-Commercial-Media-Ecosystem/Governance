@@ -1,57 +1,74 @@
-# Appendix E - Revenue Splits
+# CD-005 Revenue Splits and Payment Terms
 
-The revenue of the OCME will be allocated into the following four sections:
+## Change History
 
-- 60% of all revenue to the Content Creator Stream
-- 17.5% of all revenue to the Curator
-- 17.5% of all revenue to the Infrastructure Provider
-- 5% of all revenue to the ecosystem managed by the OCME Executive Director.
+| Version | Date       | Description  | Author          |
+| ------- | ---------- | ---------- | ------|
+| 0.2     | 2024-05-28 | Initial documentation |                 |
+| 0.3     | 2024-12-19 | Revenue split adjustment, payment terms added    |      |
+| 1.0     | 2026-02-17 | Updated revenue splits to v1.0 terminology. Scoped to streaming license revenue. | Andrew Woodruff |
 
-## Section 1 - Payment Address Requirements
+The key words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT", and "MAY" in this document are to be interpreted as described in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
-###  1.1 Payment Information Obligation
+## Amendment Protection
 
-- All OCME members who contribute content to the catalog must provide a valid payment address compatible with OCME's supported payment networks (section 2.1), or they will forfeit their right to payment for contributed content.
+Amendments to this document require supermajority voting and Board approval as specified in CD-008 Section 4.2.
 
-###  1.2 Payment Address Provision Timeline
+## 1. Streaming License Revenue Splits
 
-- A payment address may be provided at any time.
-- A payment address may be updated at any time.
-- Members have until the last day of each month to provide payment information to prevent forfeiture.
+Streaming license revenue MUST be allocated as follows:
 
-###  1.3 Forfeiture of Payment Rights
+- 60% to the Creator (distributed per the content's split sheet)
+- 10% to the Showrunner
+- 7.5% to the Broadcaster
+- 17.5% to the Technology Provider
+- 5% to the OCME Treasury for ecosystem operations
 
-- OCME members are responsible for verifying the accuracy of the information that they provide, including address and network. They are also responsible for verifying the network they are submitting is on the Supported Payment Networks list (section 2.1).
-- Members who do not provide payment information by the payment deadline will forfeit their payment rights.
-- Forfeited payments will not be held in escrow or reserve by OCME.
-- Forfeited payments will return to the treasury for the next payment period.
-- Forfeited payments will be considered waived for that payment period.
-- Members are eligible for the next payment period by providing valid payment information.
-- The OCME will not maintain individual member account balances or provide mechanisms for retrieving unclaimed payments from prior periods.
+## 2. Payment Address Requirements
 
-## Section 2 - Payment Network Requirement
+### 2.1 Payment Information Obligation
 
-###  2.1 Supported Payment Networks
+- All OCME members who contribute content to the catalog MUST provide a valid payment address compatible with OCME's supported payment networks (Section 3.1), or they will forfeit their right to payment for contributed content.
 
-- The OCME payments will be settled in USDC. We will support the following networks that transact USDC:
+### 2.2 Payment Address Provision Timeline
+
+- A payment address MAY be provided at any time.
+- A payment address MAY be updated at any time.
+- Members MUST provide payment information by the last day of the settlement period to prevent forfeiture.
+
+### 2.3 Forfeiture of Payment Rights
+
+- OCME members MUST verify the accuracy of the information that they provide, including address and network. Members MUST verify the network they are submitting is on the Supported Payment Networks list (Section 3.1).
+- Members who do not provide payment information by the payment deadline SHALL forfeit their payment rights.
+- Forfeited payments SHALL NOT be held in escrow or reserve by OCME.
+- Forfeited payments SHALL return to the treasury for the next payment period.
+- Forfeited payments SHALL be considered waived for that payment period.
+- Members MAY become eligible for the next payment period by providing valid payment information.
+- OCME SHALL NOT maintain individual member account balances or provide mechanisms for retrieving unclaimed payments from prior periods.
+
+## 3. Payment Network Requirements
+
+### 3.1 Supported Payment Networks
+
+- OCME payments MUST be settled in USDC. The following networks that transact USDC are supported:
   - Base
   - Ethereum
   - Near
   - Polygon
   - Solana
 
-###  2.2 Transaction Fee Responsibility
+### 3.2 Transaction Fee Responsibility
 
 - Members are solely responsible for all transaction fees associated with their chosen payment network. This includes:
   - Blockchain network transaction fees
   - Smart contract execution fees (if applicable)
-- The OCME will not process transactions that result in the recipient receiving less than 0$.
+- OCME MUST NOT process transactions that result in the recipient receiving less than $0.
 
-###  2.3 Network Management
+### 3.3 Network Management
 
-- OCME will provide 30 days written notice of changes to the supported payment networks.
-- OCME does not operate any blockchain network and is not responsible for network up time, transaction speed or transaction fees.
+- OCME MUST provide 30 days written notice of changes to the supported payment networks.
+- OCME does not operate any blockchain network and is not responsible for network uptime, transaction speed, or transaction fees.
 
-## Section 3 - Payment Period
+## 4. Payment Period
 
-- OCME payments will be processed on a monthly basis.
+- OCME payments MUST be processed on a monthly basis.
