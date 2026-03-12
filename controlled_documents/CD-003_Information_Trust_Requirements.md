@@ -17,7 +17,7 @@ Governed parties must ensure that the information they are responsible for is pr
 1. All governed parties MUST implement security practices appropriate to their role in the OCME Ecosystem.
 2. Technology Providers MUST promptly respond to any security incidents affecting the Content Library, DID infrastructure, or payment systems, and MUST notify affected governed parties.
 3. Creators MUST protect the credentials used to access their OCME accounts and MUST NOT share authentication credentials with unauthorized parties.
-4. Curators MUST ensure that their streaming infrastructure does not introduce vulnerabilities that could compromise content integrity or creator data.
+4. Broadcasters MUST ensure that their streaming infrastructure does not introduce vulnerabilities that could compromise content integrity or creator data.
 
 ## 2. Information Availability
 
@@ -26,7 +26,7 @@ Governed parties must ensure that the information they are responsible for is av
 1. Technology Providers MUST maintain the availability of the Content Library, DID resolution services, and payment processing systems.
 2. Technology Providers MUST implement backup and recovery procedures sufficient to prevent loss of DID documents, split sheets, and play records.
 3. Technology Providers MUST maintain records to evidence the availability of their services.
-4. Curators SHOULD maintain the availability of their streaming services to end users.
+4. Broadcasters SHOULD maintain the availability of their streaming services to end users.
 
 ## 3. Information Processing Integrity
 
@@ -41,8 +41,8 @@ Governed parties must ensure that the information they are responsible for is ac
 
 Governed parties must ensure that the information they are responsible for is kept confidential and only disclosed to authorized parties on a need-to-know basis. This includes implementing appropriate access controls to prevent unauthorized disclosure and monitoring access logs to detect and investigate suspicious activity.
 
-1. Technology Providers MUST ensure that creator and curator account data — including payment addresses and financial data — is accessible only to authorized personnel.
-2. Curators MUST NOT disclose creator personal information obtained through the OCME Ecosystem to third parties without the creator's consent.
+1. Technology Providers MUST ensure that creator and broadcaster account data — including payment addresses and financial data — is accessible only to authorized personnel.
+2. Broadcasters MUST NOT disclose creator personal information obtained through the OCME Ecosystem to third parties without the creator's consent.
 
 ## 5. Information Privacy
 
@@ -52,7 +52,7 @@ Governed parties must ensure that the information they are responsible for is ha
 2. Technology Providers MUST clearly specify what personal data is collected, how it is processed, and how long it is retained.
 3. Technology Providers MUST provide creators with the ability to access, correct, and request deletion of their personal data.
 4. Technology Providers MUST provide creators with the ability to export their personal data in a portable format upon request.
-5. Creators SHOULD review the privacy policies of Technology Providers and Curators before participating in the OCME Ecosystem.
+5. Creators SHOULD review the privacy policies of Technology Providers and Broadcasters before participating in the OCME Ecosystem.
 
 ## 6. Content Integrity and Moderation
 

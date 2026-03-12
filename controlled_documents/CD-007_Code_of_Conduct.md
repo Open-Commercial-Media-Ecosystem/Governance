@@ -21,7 +21,7 @@ This Code of Conduct ("Code") defines how we work together to make that vision r
 
 ## Scope
 
-This Code applies to all OCME members—creators, curators, IAC members, Board members, and staff:
+This Code applies to all OCME members—creators, showrunners, broadcasters, IAC members, Board members, and staff:
 
 1. Within OCME-controlled spaces: OCME platforms, GitHub repositories, official communications channels, and OCME-organized events
 2. In any setting where interactions between OCME members could impact OCME's community, reputation, or business relationships

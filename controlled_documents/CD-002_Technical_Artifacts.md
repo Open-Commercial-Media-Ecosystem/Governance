@@ -51,5 +51,5 @@ The following DID types are universal to the OCME Ecosystem. All colonies MUST s
 
 | Title | Version | Description |
 |-------|---------|-------------|
-| Streaming | 1.0 | This license gives a Curator the right to stream the referenced content. |
+| Streaming | 1.0 | This license gives a Broadcaster the right to stream the referenced content. |
 

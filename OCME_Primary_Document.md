@@ -76,7 +76,8 @@ This Primary Document defines universal governance applicable to all OCME partic
 The following roles are subject to the rules and requirements of this Governance Framework:
 
 - **Creators**: Individuals or groups who create content and execute split sheets for inclusion in the OCME ecosystem.
-- **Curators**: Individuals or groups who assemble content into channels and build subscriber audiences.
+- **Showrunners**: Individuals or organizations that curate content and produce shows for audiences.
+- **Broadcasters**: Individuals or organizations that distribute shows and content externally through channels.
 - **OCME Nonprofit**: The organization responsible for ecosystem governance, treasury management, and operational oversight.
 - **Technology Providers**: Entities operating infrastructure components (Trust Registry, Content upload and distribution, etc) on behalf of the ecosystem.
 

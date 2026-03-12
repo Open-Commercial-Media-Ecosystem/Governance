@@ -19,7 +19,8 @@ Amendments to this document require supermajority voting and Board approval as s
 Streaming license revenue MUST be allocated as follows:
 
 - 60% to the Creator (distributed per the content's split sheet)
-- 17.5% to the Curator
+- 10% to the Showrunner
+- 7.5% to the Broadcaster
 - 17.5% to the Technology Provider
 - 5% to the OCME Treasury for ecosystem operations
 
